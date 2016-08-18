@@ -1,0 +1,17 @@
+{
+    "name": "kranky-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kranky-bower.git"
+    },
+    "description": "Kranky font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
